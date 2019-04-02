@@ -14,13 +14,13 @@ Latest 32 bit python 3.7.X
 pygame installed from windows.msi  
 
 ## Vision
-Real role play to complete missions and quests.  Interact with other real players
-Network laser tag into game with raspberry pi server running connected to a wifi router (with sim card)
-Real gps is used to pull map from internet 
-Radiation area is configured somehow on raspberry pi server
-Use pipboy screens to choose weapon type to dictate damage dealt on raspberry pi server
-Use pipboy screens to adminster first aid
-Complete actual quests with other players (friendly/neutral/hostile)
+* Real role play to complete missions and quests.  Interact with other real players
+* Network laser tag into game with raspberry pi server running connected to a wifi router (with sim card)
+* Real gps is used to pull map from internet 
+* Radiation area is configured somehow on raspberry pi server
+* Use pipboy screens to choose weapon type to dictate damage dealt on raspberry pi server
+* Use pipboy screens to adminster first aid
+* Complete actual quests with other players (friendly/neutral/hostile)
 
 ## Authors
 
