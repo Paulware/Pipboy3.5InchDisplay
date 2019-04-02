@@ -6,17 +6,30 @@ Python/Pygame interface, emulating that of the Pipboy-3000.<br>
 Uses OSM for map data and has been partially tailored to respond to physical switches over Raspberry Pi's GPIO<br>
 
 ## Features
-
 Work with Screen TFT 3.5" Capacitive of Adafruit<br>
+Works with real gps (TBD)
 
-## Autors
+## Requirements
+Latest 32 bit python 3.7.X
+pygame installed from windows.msi  
+
+## Vision
+Real role play to complete missions and quests.  Interact with other real players
+Network laser tag into game with raspberry pi server running connected to a wifi router (with sim card)
+Real gps is used to pull map from internet 
+Radiation area is configured somehow on raspberry pi server
+Use pipboy screens to choose weapon type to dictate damage dealt on raspberry pi server
+Use pipboy screens to adminster first aid
+Complete actual quests with other players (friendly/neutral/hostile)
+
+## Authors
 
 * By Sabas of The Inventor's House Hackerspace
-
 * By grieve work original<br>
+* Paul Richards conversion to 3.5 inch display and runs on pc 
+*    Adding gps and real role-play functionality 
 
 ## Special Thanks
-
 Ruiz Brothers for the mention in [Adafruit](https://learn.adafruit.com/raspberry-pi-pipboy-3000/overview) 
 
 ## License
